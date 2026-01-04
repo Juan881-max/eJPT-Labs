@@ -67,6 +67,7 @@ No tengo permisos para editar el archivo, asi que hare Python Library HiJacking:
 - veo que se importa subprocess, intentare cambiarlo
 
 ![Acceso Root](16.png)
+
 Cuando lo importe, me dara acceso ... 
 
 ![Verificacion](45.png)
