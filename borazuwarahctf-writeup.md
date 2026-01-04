@@ -2,11 +2,11 @@ Maquina de Dockerlabs, categoria muy facil, veremos ...
 
 La descargo, ejecuto y hago un nmap:
 
-![[IMG-20260105001058606.png]]
+![Nmap](borazuwarah/1.png)
 
 Abiertos 22 y 80, voy al navegador:
 
-![[IMG-20260105001204365.png]]
+![Huevo](borazuwarah/2.png)
 
 Sorpresa!!!
 Reviso el codigo fuente, no hay nada.
@@ -14,15 +14,15 @@ Busco directorios o archivos con *gobuster*, no encuentro nada.
 
 Descargo la imagen para analizarla con *exiftool*:
 
-![[IMG-20260105001516277.png]]
+![exiftool](borazuwarah/3.png)
 
 Tengo un usuario, probemos con hydra:
 
-![[IMG-20260105001738308.png]]
+![Hydra](borazuwarah/4.png)
 
 Tenemos usuario y contraseña:
 
-![[IMG-20260105001933396.png]]
+![ssh](borazuwarah/6.png)
 
 Estamos dentro, probaremos con sudo -l
 
@@ -30,11 +30,11 @@ Estamos dentro, probaremos con sudo -l
 
 Pues hay suerte, buso en GTFOBins:
 
-![IMG-20260105002201041](borazuwarah/8.png)
+![GFTOBins](borazuwarah/8.png)
 
 Lo meto directamente:
 
-![IMG-20260105002242851](borazuwarah/9.png)
+![root](borazuwarah/9.png)
 
 Conseguido!!
 
