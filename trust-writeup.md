@@ -13,6 +13,7 @@ Con *gobuster*  pasandole extensionesde archivos encuentro un archivo llamado se
 ![Gobuster](trust/s.png)
 
 Entro y veo esto:
+
 ![Navegador](trust/d.png)
 
 Entiendo que mario puede ser el usuario, usare *hydra*:
