@@ -9,7 +9,9 @@ Abiertos 22 y 80, voy al navegador:
 ![Huevo](borazuwarah/2.png)
 
 Sorpresa!!!
+
 Reviso el codigo fuente, no hay nada.
+
 Busco directorios o archivos con *gobuster*, no encuentro nada.
 
 Descargo la imagen para analizarla con *exiftool*:
