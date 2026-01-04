@@ -8,7 +8,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | Máquina | Dificultad | SO | Writeup |
 | :--- | :--- | :--- | :--- |
 | **Psycho** | Media | Linux | [Ver Writeup](./pyscho-writeup.md) |
-| *Próximamente* | - | - | - |
+| **Trust** | Muy Facil | Linux | - |
 
 ---
 
