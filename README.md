@@ -10,6 +10,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **Psycho** | Media | Linux | [Ver Writeup](./pyscho-writeup.md) |
 | **Trust** | Muy Facil | Linux | [Ver Writeup](./trust-writeup.md)  |
 | **Firsthacking** | Muy Facil | Linux | [Ver Writeup](./firsthacking-writeup.md)  |
+| **Borazuwarahctf** | Muy Facil | Linux | [Ver Writeup](./borazuwarahctf-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
