@@ -21,7 +21,7 @@ Asi que debemos borrar todas las entradas pertenecientes a esa IP:
 
 Ahora si entramos por SSH:
 
-![root](breakmyssh/.png)
+![root](breakmyssh/3.png)
 
 Logrado, soy root.
 
