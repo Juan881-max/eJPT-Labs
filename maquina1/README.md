@@ -9,7 +9,8 @@ Puedes desplegar la máquina directamente desde Docker Hub con un solo comando:
 ```bash
 docker run -d --name lab01 -p 80:80 -p 2222:22 juana1234/mis-maquinas-vulnerables:maquina1
 ```
-Objetivos y Aptitudes a Practicar
+## Objetivos y Aptitudes a Practicar
+
 Reconocimiento Web: Inspección de código fuente y descubrimiento de archivos ocultos.
 
 Explotación de SSH: Uso de credenciales obtenidas para acceso inicial.
