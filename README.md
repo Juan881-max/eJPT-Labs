@@ -12,6 +12,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **Firsthacking** | Muy Facil | Linux | [Ver Writeup](./firsthacking-writeup.md)  |
 | **Borazuwarahctf** | Muy Facil | Linux | [Ver Writeup](./borazuwarahctf-writeup.md)  |
 | **Tproot** | Muy Facil | Linux | [Ver Writeup](./tproot-writeup.md)  |
+| **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./breakmyssh-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
