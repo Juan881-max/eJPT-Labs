@@ -50,6 +50,6 @@ Podemos pivotar al usuario *sonic*
 
 Ahora vemos que podemos escalar a root sin mas:
 
-![[root](hedgehod/12.png)
+![root](hedgehod/12.png)
 
 Somos root!!!
