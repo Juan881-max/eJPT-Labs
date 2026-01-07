@@ -24,31 +24,32 @@ Probare con *hydra*
 
 Tarda muchisimo, quiza la palabra este al final del Diccionario, le do y la vuelta:
 
-![hydra2](hedgehod/8.png)
+![tac](hedgehod/6.png)
 
 Tras mirar el final del archivo veo huecos vacios, los voy a eliminar:
 
-![ssh](hedgehod/9.png)
+![sed](hedgehod/7.png)
 
 Vale ahora si corro hydra con el Diccionario al reves y sin huecos:
 
-![sonic](hedgehod/.png)
+![hydra2](hedgehod/8.png)
 
 Password encontrado, voy a entrar por SSH
 
-![sonic](hedgehod/10.png)
+![ssh](hedgehod/9.png)
 
 Estoy dentro soy tails.
 ###### Escalada de Privilegios
 Pruebo sudo -l
 
-![all](hedgehod/11.png)
+![sonic](hedgehod/10.png)
 
 Podemos pivotar al usuario *sonic*
 
-![root](hedgehod/12.png)
+![all](hedgehod/11.png)
 
 Ahora vemos que podemos escalar a root sin mas:
-![[IMG-20260107193403403.png]]
+
+![[root](hedgehod/12.png)
 
 Somos root!!!
