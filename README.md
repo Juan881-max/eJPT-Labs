@@ -13,6 +13,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **Borazuwarahctf** | Muy Facil | Linux | [Ver Writeup](./borazuwarahctf-writeup.md)  |
 | **Tproot** | Muy Facil | Linux | [Ver Writeup](./tproot-writeup.md)  |
 | **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./breakmyssh-writeup.md)  |
+| **hedgehod** | Muy Facil | Linux | [Ver Writeup](./hedgehod-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
