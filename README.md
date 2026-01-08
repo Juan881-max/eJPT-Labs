@@ -14,6 +14,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **Tproot** | Muy Facil | Linux | [Ver Writeup](./tproot-writeup.md)  |
 | **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./breakmyssh-writeup.md)  |
 | **hedgehod** | Muy Facil | Linux | [Ver Writeup](./hedgehod-writeup.md)  |
+| **vacaciones** | Muy Facil | Linux | [Ver Writeup](./vacaciones-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
