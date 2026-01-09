@@ -6,7 +6,7 @@ Hago un nmap completo:
 
 Descubro los puertos abiertos 80, 21 y 22. Voy al navegador, y encuentro esto en el codigo fuente:
 
-![web](obsession/2.pngobsession/)
+![web](obsession/2.png)
 
 Veo que el usuario que se repite es *russoski*
 
