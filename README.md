@@ -15,6 +15,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./breakmyssh-writeup.md)  |
 | **hedgehod** | Muy Facil | Linux | [Ver Writeup](./hedgehod-writeup.md)  |
 | **vacaciones** | Muy Facil | Linux | [Ver Writeup](./vacaciones-writeup.md)  |
+| **obsession** | Muy Facil | Linux | [Ver Writeup](./obsession-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
