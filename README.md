@@ -16,7 +16,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **hedgehod** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/hedgehod-writeup.md)  |
 | **vacaciones** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/vacaciones-writeup.md)  |
 | **obsession** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/obsession-writeup.md)  |
-| **pequenas-mentiras** | Muy Facil | Linux | [Ver Writeup](./Faciles/pequenas-mentiras-writeup.md)  |
+| **pequenas-mentirosas** | Muy Facil | Linux | [Ver Writeup](./Faciles/pequenas-mentirosas-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
