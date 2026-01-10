@@ -7,15 +7,15 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 
 | Máquina | Dificultad | SO | Writeup |
 | :--- | :--- | :--- | :--- |
-| **Psycho** | Media | Linux | [Ver Writeup](./pyscho-writeup.md) |
-| **Trust** | Muy Facil | Linux | [Ver Writeup](./trust-writeup.md)  |
-| **Firsthacking** | Muy Facil | Linux | [Ver Writeup](./firsthacking-writeup.md)  |
-| **Borazuwarahctf** | Muy Facil | Linux | [Ver Writeup](./borazuwarahctf-writeup.md)  |
-| **Tproot** | Muy Facil | Linux | [Ver Writeup](./tproot-writeup.md)  |
-| **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./breakmyssh-writeup.md)  |
-| **hedgehod** | Muy Facil | Linux | [Ver Writeup](./hedgehod-writeup.md)  |
-| **vacaciones** | Muy Facil | Linux | [Ver Writeup](./vacaciones-writeup.md)  |
-| **obsession** | Muy Facil | Linux | [Ver Writeup](./obsession-writeup.md)  |
+| **Psycho** | Media | Linux | [Ver Writeup](./Muy%20Faciles/pyscho-writeup.md) |
+| **Trust** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/trust-writeup.md)  |
+| **Firsthacking** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/firsthacking-writeup.md)  |
+| **Borazuwarahctf** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/borazuwarahctf-writeup.md)  |
+| **Tproot** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/tproot-writeup.md)  |
+| **breakmyssh** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/breakmyssh-writeup.md)  |
+| **hedgehod** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/hedgehod-writeup.md)  |
+| **vacaciones** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/vacaciones-writeup.md)  |
+| **obsession** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/obsession-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
