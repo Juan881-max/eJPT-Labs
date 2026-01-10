@@ -12,7 +12,7 @@ Muestra los puertos 22 y 80 abiertos.
 
 Voy al navegador:
 
-![[IMG-20260110224521053](../Imagenes/pequenas-mentirosas/3.png)
+![IMG-20260110224521053](../Imagenes/pequenas-mentirosas/3.png)
 Encuentro la primera pista, 'a' podria ser un usuario, voy a probar con hydra:
 
 ![IMG-20260110224727214](../Imagenes/pequenas-mentirosas/4.png)
