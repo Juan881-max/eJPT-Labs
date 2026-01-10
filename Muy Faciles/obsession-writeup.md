@@ -2,30 +2,30 @@ Descargo la laquina de Dockerlabs, es la ultima de la seccion Muy Facil. La desp
 
 Hago un nmap completo:
 
-![Nmap](obsession/1.png)
+![Nmap](../Imagenes/obsession/obsession/1.png)
 
 Descubro los puertos abiertos 80, 21 y 22. Voy al navegador, y encuentro esto en el codigo fuente:
 
-![web](obsession/2.png)
+![web](../Imagenes/obsession/obsession/2.png)
 
 Veo que el usuario que se repite es *russoski*
 
 Asi que pruebo con hidra:
 
-![hydra](obsession/3.png)
+![hydra](../Imagenes/obsession/obsession/3.png)
 
 Encontrado el password, entro por SSH:
 
-![ssh(obsession/4.png)
+![ssh(../Imagenes/obsession/obsession/4.png)
 
 Me pide el password y dentro, soy russoski:
 
-![user](obsession/6.png)
+![user](../Imagenes/obsession/obsession/6.png)
 
 Hago un *sudo -l* y me dice que para escalar a root puedo usar el binario vim.
 Busco en GFTObins y copio el comando:
 
-![root](obsession/7.png)
+![root](../Imagenes/obsession/obsession/7.png)
 
 Soy root.
 
