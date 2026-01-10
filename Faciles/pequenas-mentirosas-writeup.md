@@ -2,7 +2,7 @@ Primera maquina de la session Facil de Dockerlabs
 
 Descargo y despliego la maquina.
 
-![IMG-20260110224223708](pequenas-mentirosas/1.png)
+![IMG-20260110224223708](Imagenes/pequenas-mentirosas/1.png)
 
 Primero empezare con un escaneo de puertos:
 
