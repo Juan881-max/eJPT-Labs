@@ -48,10 +48,10 @@ Estoy dentro, ahora hay que estabilizar <font color="#c00000">la sesion</font>:
 #### Escalada de Privilegios
 Tenemos ya una sesion mas estable. Miraremos ahora en el archivo, que nos decian en la web:
 
-![IMG-20260112001237753](../Imagenes/whereismywebshell/14.png)
+![IMG-20260112001237753](../Imagenes/whereismywebshell/16.png)
 
 Lo abrimos:
-![IMG-20260112001317753](../Imagenes/whereismywebshell/16.png)
+![IMG-20260112001317753](../Imagenes/whereismywebshell/17.png)
 
 Lo metemos:
 ![IMG-20260112001402390](../Imagenes/whereismywebshell/18.png)
