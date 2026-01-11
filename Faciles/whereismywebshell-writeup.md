@@ -2,7 +2,7 @@ Maquina de Dockerlabs, de la seccion Facil.
 
 Descargo y descomprimo la maquina. La lanzo:
 
-![IMG-20260111232608934](../Imagenes/whereismywebshell/IMG-20260111232608934.png)
+![IMG-20260111232608934](../Imagenes/whereismywebshell/1.png)
 
 En primer lugar voy a hacer un <font color="#c00000">Nmap completo</font>, pra ver puertos abiertos y servicios:
 
