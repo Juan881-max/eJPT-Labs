@@ -2,7 +2,7 @@ Maquina de la seccion Facil de Dockerlabs
 
 Descargo, descomprimo  y corro la maquina.
 
-![IMG-20260113003848293](../library/1.png)
+![IMG-20260113003848293](../Imagenes/library/1.png)
 
 Nmap completo, para ver puertos abiertos y servicios
 
