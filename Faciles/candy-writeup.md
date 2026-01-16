@@ -2,7 +2,7 @@ Candy es una maquina de Dockerlabs, de la seccion Facil
 
 Descargamos, descomprimimos y corremos la maquina.
 
-![IMG-20260115093622266](../Images/candy/1.png)
+![IMG-20260115093622266](../Imagenes/candy/1.png)
 
 Hacemos un nmap, para ver puertos y servicios:
 
