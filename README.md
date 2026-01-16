@@ -18,7 +18,8 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **obsession** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/obsession-writeup.md)  |
 | **pequenas-mentirosas** | Facil | Linux | [Ver Writeup](./Faciles/pequenas-mentirosas-writeup.md)  |
 | **whereismywebshell** | Facil | Linux | [Ver Writeup](./Faciles/whereismywebshell-writeup.md)  |
-**candy** | Facil | Linux | [Ver Writeup](./Faciles/candy-writeup.md)  |
+| **candy** | Facil | Linux | [Ver Writeup](./Faciles/candy-writeup.md)  |
+| **library** | Facil | Linux | [Ver Writeup](./Faciles/library-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
