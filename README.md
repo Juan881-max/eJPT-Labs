@@ -16,9 +16,9 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **hedgehod** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/hedgehod-writeup.md)  |
 | **vacaciones** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/vacaciones-writeup.md)  |
 | **obsession** | Muy Facil | Linux | [Ver Writeup](./Muy%20Faciles/obsession-writeup.md)  |
-| **pequenas-mentirosas** | Muy Facil | Linux | [Ver Writeup](./Faciles/pequenas-mentirosas-writeup.md)  |
-| **whereismywebshell** | Muy Facil | Linux | [Ver Writeup](./Faciles/whereismywebshell-writeup.md)  |
-**candy** | Muy Facil | Linux | [Ver Writeup](./Faciles/candy-writeup.md)  |
+| **pequenas-mentirosas** | Facil | Linux | [Ver Writeup](./Faciles/pequenas-mentirosas-writeup.md)  |
+| **whereismywebshell** | Facil | Linux | [Ver Writeup](./Faciles/whereismywebshell-writeup.md)  |
+**candy** | Facil | Linux | [Ver Writeup](./Faciles/candy-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
