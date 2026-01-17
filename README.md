@@ -20,6 +20,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **whereismywebshell** | Facil | Linux | [Ver Writeup](./Faciles/whereismywebshell-writeup.md)  |
 | **candy** | Facil | Linux | [Ver Writeup](./Faciles/candy-writeup.md)  |
 | **library** | Facil | Linux | [Ver Writeup](./Faciles/library-writeup.md)  |
+| **upload** | Facil | Linux | [Ver Writeup](./Faciles/upload-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
