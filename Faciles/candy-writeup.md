@@ -7,7 +7,7 @@ Descargamos, descomprimimos y corremos la maquina.
 Hacemos un nmap, para ver puertos y servicios:
 
 ![IMG-20260115093830733](../Imagenes/candy/2.png)
-![[IMG-20260115093833539](../Imagenes/candy/3.png)
+![IMG-20260115093833539](../Imagenes/candy/3.png)
 
 Puerto 80 abierto, veamoslo en el navegador:
 
