@@ -2,7 +2,7 @@ Descargo la maquina backend de Dockerlabs, seccion Facil
 
 Hago un nmap para ver puertos abiertos y versiones
 
-![IMG-20260118205303139]
+![IMG-20260115093622266](../Imagenes/backend/1.png)
 ![IMG-20260118205306057]
 
 Puerto 22 y 80 abiertos.
