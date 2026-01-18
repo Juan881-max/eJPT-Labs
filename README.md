@@ -22,6 +22,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **library** | Facil | Linux | [Ver Writeup](./Faciles/library-writeup.md)  |
 | **upload** | Facil | Linux | [Ver Writeup](./Faciles/upload-writeup.md)  |
 | **secretjenkins** | Facil | Linux | [Ver Writeup](./Faciles/secretjenkins-writeup.md)  |
+| **backend** | Facil | Linux | [Ver Writeup](./Faciles/backend-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
