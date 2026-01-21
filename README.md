@@ -23,6 +23,7 @@ Este repositorio contiene los writeups detallados de las máquinas vulneradas du
 | **upload** | Facil | Linux | [Ver Writeup](./Faciles/upload-writeup.md)  |
 | **secretjenkins** | Facil | Linux | [Ver Writeup](./Faciles/secretjenkins-writeup.md)  |
 | **backend** | Facil | Linux | [Ver Writeup](./Faciles/backend-writeup.md)  |
+| **extraviado** | Facil | Linux | [Ver Writeup](./Faciles/extraviado-writeup.md)  |
 ---
 
 ## 🛠️ Metodología General
