@@ -25,8 +25,11 @@ Probando con SSH
 
 ![IMG-20260121195341762](../Imagenes/extraviado/6.png)
 
+
 Somos daniela, y parece que hay archivos interesantes.
+
 Dentro del directorio secreto, hay un archivo, y este nos muestrauna posible contraseña para diego, otro usuario, que confirmo entrando en /home
+
 
 ![IMG-20260121195734076](../Imagenes/extraviado/7.png)
 
@@ -35,9 +38,13 @@ Comprobamos que diego y ballenanera son validos
 ![IMG-20260121195926457](../Imagenes/extraviado/8.png)
 
 Son validos, somos el usario diego.
+
 Pruebo con sudo -l, nada
+
 Pruebo listando binarios, nada
+
 Busco archivos y encuentro esto
+
 
 ![IMG-20260121200227032](../Imagenes/extraviado/9.png)
 
@@ -48,9 +55,12 @@ Busco mas
 
 Encuentro este archivo, con una especie de adivinanza, solucion: osoazul
 
+
 Lo pruebo con diego:
 
+
 ![IMG-20260121200705318](../Imagenes/extraviado/13.png)
+
 
 Somos root !!!
 
